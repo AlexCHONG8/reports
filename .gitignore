@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Processing files (temporary)
+processing/
+input/
+
+# Output files (user data)
+output/
+
+# Config with API keys
+config.ini
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
